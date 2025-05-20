@@ -1,4 +1,4 @@
-#Reiner Luminto
+# Reiner Luminto
 
 1. Within a Github action that runs whenever code is pushed. 
    - Doing this within the github actions ensures that there is consistent feedback by automatically testing and checkign for bugs. This helps us catch issues right at the root when we caused them, preventing larger more annoying complications down the line. 
